@@ -33,7 +33,6 @@ now = getTime();
 document.getElementById('marquee').innerHTML = now;
 document.getElementById('copy').innerHTML = now;
 document.getElementById('node').innerHTML = now;
-document.getElementById('user_name').innerHTML = "霍留伟";
 // Request["name"]
 if(text_type == 0)
 	document.getElementById('text_type').innerHTML = "授权有效！";
